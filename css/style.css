@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    font-family: Georgia;
+    font-family: Georgia, serif;
     font-size: 32px;
     font-weight: 400;
     line-height: 40px;
@@ -22,7 +22,7 @@ h1 {
 
     }
     h3 {
-        font-family: Open Sans;
+        font-family: Open Sans, serif;
         font-size: 16px;
         font-weight: 400;
         line-height: 20px;
@@ -39,7 +39,7 @@ h1 {
         }
 
 p {
-    font-family: Open Sans;
+    font-family: Open Sans, serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
@@ -50,7 +50,7 @@ p {
     }
    
 .container{
-    margin: 0px 350px;
+    margin: 0 350px;
     
     
     }
