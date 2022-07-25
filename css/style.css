@@ -50,6 +50,7 @@ p {
     }
    
 .container{
+
     margin: 0 350px;
     
     
@@ -58,13 +59,15 @@ p {
   
 .block {
     width: 270px;
-    
     display: inline-block;
-    outline: 2px solid black;
     margin: 15px;
    
 }
 .disain {
     height: 180px;
-    background-color: red;
+    background: #F5F5F5;
+    text-align: center;
+}
+.one {
+    background: #A18A6F;
 }
