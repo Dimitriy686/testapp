@@ -16,7 +16,9 @@
 }
 .part1 {
     border: 2px solid red;
-    padding: 0 auto;
+    font-size: 0;
+
+
 
 
 }
@@ -59,11 +61,11 @@ p {
 }
 
 .block {
-    width: 270px;
-    height: 180px;
+    width: 25%;
     display: inline-block;
     vertical-align: top;
     border: 2px solid aqua;
+    padding: 15px;
 
 }
 
