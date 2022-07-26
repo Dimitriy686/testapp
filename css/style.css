@@ -9,12 +9,14 @@
 }
 
 .container {
-    border: red;
+    border: 2px solid black;
     width: 1170px;
     margin: 0 auto;
 
 }
 .part1 {
+    border: 2px solid red;
+    padding: 0 auto;
 
 
 }
@@ -61,7 +63,7 @@ p {
     height: 180px;
     display: inline-block;
     vertical-align: top;
-    margin: 5px;
+    border: 2px solid aqua;
 
 }
 
