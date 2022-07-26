@@ -1,9 +1,7 @@
 *{
     box-sizing: border-box;
 }
-*, *::after, *::before{
-    box-sizing: inherit;
-}
+
 .section {
     border: black;
 }
@@ -51,15 +49,10 @@ h1 {
           color: #443329;
         }
 
-p {
-    font-family: Open Sans, serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 20px;
-    text-align: center;
-    color: #443329;
-}
 
+.blockCommon {
+      border: 6px solid green;
+  }
 .block {
     width: 25%;
     display: inline-block;
@@ -69,11 +62,34 @@ p {
 
 }
 
+.disain2 {
+    height: 180px;
+    background: #F5F5F5;
+
+
+}
+.img {
+    padding-left: 105px;
+    padding-top: 45px;
+}
+.text {
+    font-family: Open Sans, serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #443329;
+    padding-top: 27px;
+    margin: 0;
+
+
+}
 .disain {
     height: 180px;
-    text-align: center;
     background: #F5F5F5;
     border: red;
+
+
 }
 
 
