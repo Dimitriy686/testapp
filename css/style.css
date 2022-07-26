@@ -54,6 +54,12 @@ h1 {
     padding: 15px;
 }
 
+.disain {
+    height: 180px;
+    background: #A18A6F ;
+    text-align: center;
+}
+
 .disain2 {
     height: 180px;
     background: #F5F5F5;
@@ -69,17 +75,12 @@ h1 {
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
-    text-align: center;
     color: #443329;
     padding-top: 24px;
     margin: 0;
 }
 
-.disain {
-    height: 180px;
-    background: #A18A6F ;
-    text-align: center;
-}
+
 
 
 
