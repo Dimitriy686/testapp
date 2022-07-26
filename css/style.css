@@ -54,16 +54,16 @@ h1 {
     padding: 15px;
 }
 
-.disain {
-    height: 180px;
-    background: #A18A6F ;
-    text-align: center;
-}
+
 
 .disain2 {
     height: 180px;
     background: #F5F5F5;
     text-align: center;
+}
+.fon {
+    background-color: #A18A6F ;
+
 }
 
 .img {
@@ -78,6 +78,9 @@ h1 {
     color: #443329;
     padding-top: 24px;
     margin: 0;
+}
+.part2 {
+    font-size: 0;
 }
 
 
