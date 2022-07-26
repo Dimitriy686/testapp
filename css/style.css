@@ -2,24 +2,18 @@
     box-sizing: border-box;
 }
 
-.section {
-    border: black;
+.section-price {
 }
 
 .container {
-    border: 2px solid black;
     width: 1170px;
     margin: 0 auto;
-
 }
+
 .part1 {
-    border: 2px solid red;
     font-size: 0;
-
-
-
-
 }
+
 h1 {
     font-family: Georgia, serif;
     font-size: 32px;
@@ -30,8 +24,8 @@ h1 {
     width: 387px;
     top: 880px;
     margin: 80px auto 24px;
-
     }
+
     h3 {
         font-family: Open Sans, serif;
         font-size: 16px;
@@ -39,40 +33,37 @@ h1 {
         line-height: 20px;
         text-align: center;
         color: #443329;
-
-
     }
+
     .ras {
         color: #A18A6F;
         }
-        .ras2 {
+
+    .ras2 {
           color: #443329;
         }
 
 
 .blockCommon {
-      border: 6px solid green;
+
   }
 .block {
     width: 25%;
     display: inline-block;
     vertical-align: top;
-    border: 2px solid aqua;
     padding: 15px;
-
 }
 
 .disain2 {
     height: 180px;
     background: #F5F5F5;
     text-align: center;
-
-
 }
+
 .img {
-    padding-left: ;
     padding-top: 45px;
 }
+
 .text {
     font-family: Open Sans, serif;
     font-size: 16px;
@@ -82,19 +73,13 @@ h1 {
     color: #443329;
     padding-top: 27px;
     margin: 0;
-
-
 }
+
 .disain {
     height: 180px;
-    background: #F5F5F5;
-    border: red;
-
-
-}
-
-
-
-.one {
     background: #A18A6F ;
+    text-align: center;
 }
+
+
+
