@@ -65,9 +65,9 @@ p {
 }
 .disain {
     height: 180px;
-    background: red;
+    background: #F5F5F5;
     text-align: center;
 }
-/*.one {
+.one {
     background: #A18A6F;
 }
