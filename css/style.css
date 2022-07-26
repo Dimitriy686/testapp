@@ -65,11 +65,12 @@ h1 {
 .disain2 {
     height: 180px;
     background: #F5F5F5;
+    text-align: center;
 
 
 }
 .img {
-    padding-left: 105px;
+    padding-left: ;
     padding-top: 45px;
 }
 .text {
