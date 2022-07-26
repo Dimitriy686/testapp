@@ -4,11 +4,20 @@
 *, *::after, *::before{
     box-sizing: inherit;
 }
-
-body {
-    width: 1920px;
+.section {
+    border: black;
 }
 
+.container {
+    border: red;
+    width: 1170px;
+    margin: 0 auto;
+
+}
+.part1 {
+
+
+}
 h1 {
     font-family: Georgia, serif;
     font-size: 32px;
@@ -28,14 +37,14 @@ h1 {
         line-height: 20px;
         text-align: center;
         color: #443329;
-    
-    
+
+
     }
     .ras {
         color: #A18A6F;
         }
         .ras2 {
-          color: #443329; 
+          color: #443329;
         }
 
 p {
@@ -45,29 +54,26 @@ p {
     line-height: 20px;
     text-align: center;
     color: #443329;
+}
 
-    
-    }
-   
-.container{
-
-    margin: 0 350px;
-    
-    
-    }
-  
-  
 .block {
     width: 270px;
+    height: 180px;
     display: inline-block;
-    margin: 15px;
-   
+    vertical-align: top;
+    margin: 5px;
+
 }
+
 .disain {
     height: 180px;
-    background: #F5F5F5;
     text-align: center;
+    background: #F5F5F5;
+    border: red;
 }
+
+
+
 .one {
-    background: #A18A6F;
+    background: #A18A6F ;
 }
