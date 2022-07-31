@@ -88,9 +88,7 @@ h1 {
     display: inline-block;
 
 }
-.disain3 {
 
-}
 .text2 {
     font-family: 'Open Sans';
     font-weight: 400;
@@ -105,19 +103,75 @@ h1 {
     margin: 0;
 
 }
+
+.part3 {
+    font-size: 0;
+
+}
 .zag3 {
     color: #443329;
 
 }
-.part3 {
-    font-size: 0;
-}
+
 .block3 {
     width: 33.3%;
     vertical-align: top;
     padding: 42px 15px 15px 15px;
     display: inline-block;
     border: 2px solid red;
+}
+.disain3 {
+    height: 450px;
+    background: #F5F5F5;
+}
+.h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 125%;
+    padding-left: 32px;
+    padding-top: 32px;
+    margin: 0;
+    color: #443329;
+}
+.h3 {
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 125%;
+    color: #A18A6F;
+    padding: 26px 8px 24px 32px;
+    display: inline-block;
+
+}
+.h4 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    color: #8E8E8E;
+}
+.button {
+    width: 306px;
+    height: 50px;
+    background: linear-gradient(180deg, #D2C4B4 0%, #A18A6F 100%);
+    border-radius: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    color: #FFFFFF;
+    padding: 0px;
+
+
+}
+.blockButton {
+padding: 0px 32px;
 }
 
 
