@@ -21,7 +21,7 @@ h1 {
     line-height: 40px;
     text-align: center;
     width: 387px;
-    margin: 100px auto 0px;
+    margin: 100px auto 0;
     }
 
     h3 {
@@ -65,6 +65,7 @@ h1 {
 }
 
 .img {
+    max-width: 100%;
     padding-top: 41px;
 }
 
@@ -88,6 +89,10 @@ h1 {
     display: inline-block;
 
 }
+.img2 {
+    max-width: 100%;
+}
+
 
 .text2 {
     font-family: 'Open Sans';
@@ -96,7 +101,7 @@ h1 {
     line-height: 20px;
     color: #FFFFFF;
     background: #A18A6F;
-    width: 370px;
+    width: 360px;
     height: 108px;
     padding-top: 24px;
     padding-left: 32px;
@@ -136,7 +141,6 @@ h1 {
     color: #443329;
 }
 .h3 {
-
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
@@ -166,13 +170,30 @@ h1 {
     font-size: 16px;
     line-height: 125%;
     color: #FFFFFF;
-    padding: 0px;
+    padding: 0;
 
 
 }
 .blockButton {
-padding: 0px 32px;
+padding: 0 32px;
 }
+.down {
+    margin-top: 198px;
+    position: center;
+    width: 76px;
+    height: 18px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    color: #FFFFFF;
+    background: #A18A6F;
+
+
+}
+
+
 
 
 
