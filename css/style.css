@@ -128,7 +128,7 @@ h1 {
 .disain3 {
     height: 450px;
     background: #F5F5F5;
-    background: url('../img/img31.png') 100px 216px no-repeat;
+    background: url('../img/img31.png') right bottom no-repeat;
 }
 .h2 {
     font-family: 'Open Sans';
