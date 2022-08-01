@@ -125,9 +125,17 @@ h1 {
     display: inline-block;
 
 }
-.disain3 {
+.disain31 {
     height: 450px;
     background: #F5F5F5 url('../img/img31.png') right bottom no-repeat  ;
+}
+.disain32 {
+    height: 450px;
+    background: #F5F5F5 url('../img/img32.png') right bottom no-repeat  ;
+}
+.disain33 {
+    height: 450px;
+    background: #F5F5F5 url('../img/img33.png') 190px bottom no-repeat  ;
 }
 .h2 {
     font-family: 'Open Sans';
