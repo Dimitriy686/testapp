@@ -123,12 +123,11 @@ h1 {
     vertical-align: top;
     padding: 42px 15px 15px 15px;
     display: inline-block;
-    border: 2px solid red;
+
 }
 .disain3 {
     height: 450px;
-    background: #F5F5F5;
-    background: url('../img/img31.png') right bottom no-repeat;
+    background: #F5F5F5 url('../img/img31.png') right bottom no-repeat  ;
 }
 .h2 {
     font-family: 'Open Sans';
