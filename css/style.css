@@ -3,11 +3,13 @@
 }
 
 .section-price {
+    border: 2px solid red;
 }
 
 .container {
     width: 1170px;
     margin: 0 auto;
+    border: 2px solid red;
 }
 
 .part1 {
@@ -111,7 +113,6 @@ h1 {
 
 .part3 {
     font-size: 0;
-
 }
 .zag3 {
     color: #443329;
@@ -202,10 +203,80 @@ padding: 0 32px;
     line-height: 125%;
     color: #FFFFFF;
     background: #A18A6F;
+}
 
+.footer {
+    border: 2px solid green;
+    max-width: 1720px;
+    margin: 0 auto;
+    background: #F5F5F5;
+    font-size: 0;
+    padding: 60px 0;
+
+}
+.contein {
+
+    display: inline-block;
 
 
 }
+.flex{
+    display: flex;
+}
+.blockBarleft {
+    height: 200px;
+    padding-left: 375px;
+
+}
+
+.adres {
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #443329;
+}
+.nav {
+    height: 200px;
+    padding-left: 30px;
+    margin-top: 19px;
+}
+.button_li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    color: #252525;
+    margin-right: 32px;
+    border: none;
+}
+.blockBarRight {
+    height: 200px;
+
+}
+.number {
+    width: 147px;
+    height: 25px;
+padding-top: 13px;
+
+    margin: 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 125%;
+    /* identical to box height, or 25px */
+    color: #A18A6F;
+}
+
+.socset {
+    padding-right: 29px;
+    padding-top: 26px;
+}
+
 
 
 
