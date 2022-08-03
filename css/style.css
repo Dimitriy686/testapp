@@ -3,13 +3,12 @@
 }
 
 .section-price {
-    border: 2px solid red;
+
 }
 
 .container {
     width: 1170px;
     margin: 0 auto;
-    border: 2px solid red;
 }
 
 .part1 {
@@ -206,8 +205,7 @@ padding: 0 32px;
 }
 
 .footer {
-    border: 2px solid green;
-    max-width: 1720px;
+    max-width: 1920px;
     margin: 0 auto;
     background: #F5F5F5;
     font-size: 0;
@@ -231,7 +229,7 @@ padding: 0 32px;
 
 .adres {
 
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -244,7 +242,7 @@ padding: 0 32px;
     margin-top: 19px;
 }
 .button_li {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -263,7 +261,7 @@ padding: 0 32px;
 padding-top: 13px;
 
     margin: 0;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
