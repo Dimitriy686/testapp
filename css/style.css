@@ -205,7 +205,6 @@ padding: 0 32px;
 }
 
 .footer {
-    max-width: 1920px;
     margin: 0 auto;
     background: #F5F5F5;
     font-size: 0;
@@ -213,10 +212,7 @@ padding: 0 32px;
 
 }
 .contein {
-
     display: inline-block;
-
-
 }
 .flex{
     display: flex;
@@ -224,11 +220,9 @@ padding: 0 32px;
 .blockBarleft {
     height: 200px;
     padding-left: 375px;
-
 }
 
 .adres {
-
     font-family: 'Open Sans',serif;
     font-style: normal;
     font-weight: 400;
@@ -253,13 +247,11 @@ padding: 0 32px;
 }
 .blockBarRight {
     height: 200px;
-
 }
 .number {
     width: 147px;
     height: 25px;
-padding-top: 13px;
-
+    padding-top: 13px;
     margin: 0;
     font-family: 'Open Sans', serif;
     font-style: normal;
