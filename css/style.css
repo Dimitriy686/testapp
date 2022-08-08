@@ -213,8 +213,8 @@ padding: 0 32px;
 
 .blocki {
     display: inline-block;
-    border: 2px solid red;
-    width: auto;
+    vertical-align: top;
+
 }
 
 .blockBarleft {
@@ -229,7 +229,10 @@ padding: 0 32px;
     color: #443329;
 }
 .nav {
-    width: 630px;
+    width: 650px;
+}
+.aboutCl {
+    padding-left: 30px;
 }
 .button_li {
     font-family: 'Open Sans', serif;
@@ -241,6 +244,7 @@ padding: 0 32px;
     margin-right: 32px;
     border: none;
     background: #F5F5F5;
+    padding-top: 19px;
 }
 .blockBarRight {
     width: 270px;
@@ -255,6 +259,7 @@ padding: 0 32px;
     line-height: 125%;
     /* identical to box height, or 25px */
     color: #A18A6F;
+    padding-top: 13px;
 }
 .socset {
     padding-right: 23px;
