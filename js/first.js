@@ -18,4 +18,13 @@ admin = name;
 alert (admin);
 let name = prompt('Как тебя зовут?',"" );
 
-alert(`Меня зовут ${name} !`);*/
+alert(`Меня зовут ${name} !`
+<div class="abouteClinic">
+        <div class="container">
+            <div class="leftClinic">
+                <p></p>
+            </div>
+            <div class="rightClinic">
+            </div>
+        </div>
+    </div>);*/

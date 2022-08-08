@@ -205,24 +205,21 @@ padding: 0 32px;
 }
 
 .footer {
-    max-width: 1920px;
-    margin: 0 auto;
     background: #F5F5F5;
     font-size: 0;
     padding: 60px 0;
-
 }
-.contein {
+
+
+.blocki {
     display: inline-block;
-}
-.flex{
-    display: flex;
-}
-.blockBarleft {
-    height: 200px;
-    padding-left: 375px;
+    border: 2px solid red;
+    width: auto;
 }
 
+.blockBarleft {
+    width: 270px;
+}
 .adres {
     font-family: 'Open Sans',serif;
     font-style: normal;
@@ -232,9 +229,7 @@ padding: 0 32px;
     color: #443329;
 }
 .nav {
-    height: 200px;
-    padding-left: 30px;
-    margin-top: 19px;
+    width: 630px;
 }
 .button_li {
     font-family: 'Open Sans', serif;
@@ -248,13 +243,11 @@ padding: 0 32px;
     background: #F5F5F5;
 }
 .blockBarRight {
-    height: 200px;
+    width: 270px;
+
 }
 .number {
     width: 147px;
-    height: 25px;
-    padding-top: 13px;
-    margin: 0;
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 600;
@@ -263,10 +256,9 @@ padding: 0 32px;
     /* identical to box height, or 25px */
     color: #A18A6F;
 }
-
 .socset {
-    padding-right: 29px;
-    padding-top: 26px;
+    padding-right: 23px;
+
 }
 
 
