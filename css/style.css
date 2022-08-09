@@ -17,7 +17,7 @@
 
 h1 {
     font-family: Georgia, serif;
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 400;
     line-height: 40px;
     text-align: center;
@@ -204,6 +204,65 @@ padding: 0 32px;
     background: #A18A6F;
 }
 
+.section-one{
+    background: #F5F5F5;
+    font-size: 0;
+    padding-top: 60px;
+}
+.blockCl {
+    display: inline-block;
+    vertical-align: top;
+}
+.leftClinic {
+    width: 501px;
+    margin-right: 85px;
+    padding-left: 10px;
+}
+.AbCl {
+    padding-left: 0;
+    font-family: 'Georgia', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 125%;
+    /* identical to box height, or 45px */
+
+    color: #443329;
+}
+.textAbouteClinic {
+    width: 510px;
+    height: 384px;
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    color: #8E8E8E;
+    padding-top: 24px;
+}
+.rightClinic {
+    width: 580px;
+}
+.imgtopCl {
+    margin-bottom: 10px;
+}
+.imgrow {
+
+}
+.imgDown {
+    width: 184px;
+}
+.two {
+    margin: 0 10px;
+}
+.radio {
+    text-align: center;
+    padding-top: 24px;
+}
+.radiobutton {
+    accent-color: #A18A6F;
+}
 .footer {
     background: #F5F5F5;
     font-size: 0;
@@ -263,6 +322,7 @@ padding: 0 32px;
 }
 .socset {
     padding-right: 23px;
+    padding-top: 24px;
 
 }
 

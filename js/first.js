@@ -20,7 +20,6 @@ let name = prompt('Как тебя зовут?',"" );
 
 alert(`Меня зовут ${name} !`
 <div class="abouteClinic">
-        <div class="container">
             <div class="leftClinic">
                 <p></p>
             </div>
