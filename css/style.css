@@ -259,6 +259,7 @@ padding: 0 32px;
 .radio {
     text-align: center;
     padding-top: 24px;
+    padding-bottom: 60px;
 }
 .radiobutton {
     accent-color: #A18A6F;
