@@ -208,15 +208,16 @@ padding: 0 32px;
     background: #F5F5F5;
     font-size: 0;
     padding-top: 60px;
+    padding-bottom: 103px;
 }
 .blockCl {
     display: inline-block;
     vertical-align: top;
 }
 .leftClinic {
-    width: 501px;
-    margin-right: 85px;
-    padding-left: 10px;
+    width: 50%;
+    height: 460px;
+    marging-right: 99px;
 }
 .AbCl {
     padding-left: 0;
@@ -226,12 +227,10 @@ padding: 0 32px;
     font-size: 36px;
     line-height: 125%;
     /* identical to box height, or 45px */
-
     color: #443329;
 }
 .textAbouteClinic {
-    width: 510px;
-    height: 384px;
+    marging-top: 24px;
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 400;
@@ -239,30 +238,39 @@ padding: 0 32px;
     line-height: 150%;
     /* or 24px */
     color: #8E8E8E;
-    padding-top: 24px;
+
 }
 .rightClinic {
-    width: 580px;
+    width: 50%;
+    height: 460px;
+
 }
 .imgtopCl {
     margin-bottom: 10px;
 }
 .imgrow {
 
+
+
+
 }
 .imgDown {
-    width: 184px;
+
+    display: inline-block;
+
+
+
 }
-.two {
-    margin: 0 10px;
+.one {
+    margin-right: 10px;
 }
-.radio {
-    text-align: center;
-    padding-top: 24px;
-    padding-bottom: 60px;
-}
-.radiobutton {
-    accent-color: #A18A6F;
+.circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
 }
 .footer {
     background: #F5F5F5;
@@ -275,10 +283,11 @@ padding: 0 32px;
     display: inline-block;
     vertical-align: top;
 
+
 }
 
 .blockBarleft {
-    width: 270px;
+    width: 23%;
 }
 .adres {
     font-family: 'Open Sans',serif;
@@ -287,27 +296,36 @@ padding: 0 32px;
     font-size: 14px;
     line-height: 150%;
     color: #443329;
+    padding-top: 25px;
 }
 .nav {
-    width: 650px;
+    width: 54%;
+    padding-top: 19px;
 }
-.aboutCl {
-    padding-left: 30px;
+ul.hr {
+    margin: 0;
+    padding-left: 50px;
 }
-.button_li {
+ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    padding-right: 30px; /* Поля вокруг текста */
+
+}
+
+.li {
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 125%;
     color: #252525;
-    margin-right: 32px;
     border: none;
     background: #F5F5F5;
-    padding-top: 19px;
+    text-decoration: none;
+
 }
 .blockBarRight {
-    width: 270px;
+    width: 23%;
 
 }
 .number {
