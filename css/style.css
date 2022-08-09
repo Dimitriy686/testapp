@@ -208,7 +208,7 @@ padding: 0 32px;
     background: #F5F5F5;
     font-size: 0;
     padding-top: 60px;
-    padding-bottom: 103px;
+    padding-bottom: 93px;
 }
 .blockCl {
     display: inline-block;
@@ -217,7 +217,7 @@ padding: 0 32px;
 .leftClinic {
     width: 50%;
     height: 460px;
-    marging-right: 99px;
+
 }
 .AbCl {
     padding-left: 0;
@@ -230,7 +230,6 @@ padding: 0 32px;
     color: #443329;
 }
 .textAbouteClinic {
-    marging-top: 24px;
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 400;
@@ -264,13 +263,23 @@ padding: 0 32px;
 .one {
     margin-right: 10px;
 }
+.slider {
+    padding-top: 24px;
+    text-align: center;
+}
 .circle {
-    width: 100px;
-    height: 100px;
-    background: red;
+    width: 12px;
+    height: 12px;
+    margin-right: 12px;
+    background: #A18A6F;
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+    display: inline-block;
+
+}
+.twice {
+    background: #D2C4B4;
 }
 .footer {
     background: #F5F5F5;
