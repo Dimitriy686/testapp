@@ -281,20 +281,101 @@ padding: 0 32px;
 .twice {
     background: #D2C4B4;
 }
+
+
+
+.header {
+    height: 800px;
+    background: #F5F5F5;
+    font-size: 0;
+}
+.anatom {
+}
+.twoFonImg {
+    height: 800px;
+    padding-top: 30px;
+    background:  url("../img/pretty.png") 100% 100% no-repeat, url("../img/fonbrown.png") 100% 100% no-repeat;
+}
+.headernumber {
+    padding-top: 10px;
+}
+.numberphone {
+    display: inline-block;
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 125%;
+    background: linear-gradient(180deg, #D2C4B4 0%, #A18A6F 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.imgPhone {
+    padding-right: 12px;
+    padding-left: 30px;
+}
+.navH {
+    width: 54%;
+    padding-top: 19px;
+    padding-left: 22px;
+}
+.downH {
+    padding-top: 174px;
+}
+.textH {
+    width: 665px;
+    height: 135px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 125%;
+    /* or 45px */
+    color: #443329;
+}
+.textSecond {
+    margin-top: 28px;
+    width: 313px;
+    height: 23px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 125%;
+    /* identical to box height, or 22px */
+    color: #443329;
+}
+.buttonHeader {
+    margin-top: 47px;
+    width: 220px;
+    height: 54px;
+    background: linear-gradient(180deg, #D2C4B4 0%, #A18A6F 100%);
+    border-radius: 5px;
+}
+.buttonTextHeader {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 17px;
+
+}
+
+
+
+
 .footer {
     background: #F5F5F5;
     font-size: 0;
     padding: 60px 0;
 }
-
-
 .blocki {
     display: inline-block;
     vertical-align: top;
-
-
 }
-
 .blockBarleft {
     width: 23%;
 }
@@ -318,9 +399,7 @@ ul.hr {
 ul.hr li {
     display: inline; /* Отображать как строчный элемент */
     padding-right: 30px; /* Поля вокруг текста */
-
 }
-
 .li {
     font-family: 'Open Sans', serif;
     font-style: normal;
@@ -335,10 +414,8 @@ ul.hr li {
 }
 .blockBarRight {
     width: 23%;
-
 }
 .number {
-    width: 147px;
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 600;
@@ -351,7 +428,6 @@ ul.hr li {
 .socset {
     padding-right: 23px;
     padding-top: 24px;
-
 }
 
 
