@@ -284,17 +284,29 @@ padding: 0 32px;
 
 
 
-.header {
-    height: 800px;
+
+.section-two {
     background: #F5F5F5;
+    margin: 100px 0;
+}
+twoFonImgDoctor
+
+
+
+
+
+
+.header {
     font-size: 0;
+    background-color: red;
+    margin: 10px 0;
 }
-.anatom {
-}
+
 .twoFonImg {
     height: 800px;
     padding-top: 30px;
-    background:  url("../img/pretty.png") 100% 100% no-repeat, url("../img/fonbrown.png") 100% 100% no-repeat;
+    background: url("../img/pretty.png") 100% 100% no-repeat, url("../img/fonbrown.png") 100% 100% no-repeat, #F5F5F5;
+
 }
 .headernumber {
     padding-top: 10px;
@@ -325,7 +337,7 @@ padding: 0 32px;
 .textH {
     width: 665px;
     height: 135px;
-    font-family: 'Georgia';
+    font-family: Georgia,serif;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
@@ -337,7 +349,7 @@ padding: 0 32px;
     margin-top: 28px;
     width: 313px;
     height: 23px;
-    font-family: 'Open Sans';
+    font-family: Open Sans,serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -353,7 +365,7 @@ padding: 0 32px;
     border-radius: 5px;
 }
 .buttonTextHeader {
-    font-family: 'Open Sans';
+    font-family: Open Sans, serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -400,6 +412,10 @@ ul.hr li {
     display: inline; /* Отображать как строчный элемент */
     padding-right: 30px; /* Поля вокруг текста */
 }
+.linkFirst {
+    border-bottom: 2px solid #D2C4B4;
+
+}
 .li {
     font-family: 'Open Sans', serif;
     font-style: normal;
@@ -407,8 +423,6 @@ ul.hr li {
     font-size: 14px;
     line-height: 125%;
     color: #252525;
-    border: none;
-    background: #F5F5F5;
     text-decoration: none;
 
 }
