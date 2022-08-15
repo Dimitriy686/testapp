@@ -445,6 +445,7 @@ padding: 0 32px;
 
      color: #8E8E8E;
      margin-top: 32px;
+     padding-left: 20px;
  }
 .numberF {
     width: 470px;
@@ -458,6 +459,7 @@ padding: 0 32px;
 
 
     color: #8E8E8E;
+    padding-left: 20px;
 }
 .questionF {
     width: 470px;
@@ -471,6 +473,7 @@ padding: 0 32px;
 
 
     color: #8E8E8E;
+    padding-left: 20px;
 }
 .buttonF {
     width: 470px;
