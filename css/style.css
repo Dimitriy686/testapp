@@ -390,9 +390,9 @@ padding: 0 32px;
 
 }
 .DOC  {
-    position: initial;
 }
 .form {
+    padding-left: 56px;
 }
 .oneF {
     font-family: Open Sans, serif;
