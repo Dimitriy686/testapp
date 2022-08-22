@@ -24,8 +24,11 @@
     background: url("../img/pretty.png") 100% 100% no-repeat, url("../img/fonbrown.png") 100% 100% no-repeat, #F5F5F5;
 
 }
-.headernumber {
+.blockBarRightHeader {
     padding-top: 10px;
+    width: 23%;
+}
+.headernumber {
 }
 .numberphone {
     display: inline-block;
@@ -37,8 +40,10 @@
     background: linear-gradient(180deg, #D2C4B4 0%, #A18A6F 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
 }
 .imgPhone {
+    position: center;
     padding-right: 12px;
     padding-left: 30px;
 }
@@ -91,11 +96,6 @@
     padding-top: 17px;
 
 }
-.container {
-    width: 1170px;
-    margin: 0 auto;
-}
-
 
 
 .part1 {
