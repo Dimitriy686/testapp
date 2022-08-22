@@ -24,14 +24,24 @@
     background: url("../img/pretty.png") 100% 100% no-repeat, url("../img/fonbrown.png") 100% 100% no-repeat, #F5F5F5;
 
 }
-.blockBarRightHeader {
-    padding-top: 10px;
-    width: 23%;
+.anatom {
+
 }
-.headernumber {
+.blockiH {
+    display: inline-block;
+    vertical-align: middle;
+}
+.blockbarleftHeader {
+
+}
+.blockBarRightHeader {
+    width: 23%;
+
 }
 .numberphone {
     display: inline-block;
+    vertical-align: middle;
+    height: 24px;
     font-family: 'Open Sans', serif;
     font-style: normal;
     font-weight: 600;
@@ -43,13 +53,11 @@
 
 }
 .imgPhone {
-    position: center;
     padding-right: 12px;
     padding-left: 30px;
 }
 .navH {
     width: 54%;
-    padding-top: 19px;
     padding-left: 22px;
 }
 .downH {
