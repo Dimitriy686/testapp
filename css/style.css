@@ -377,6 +377,9 @@ padding: 0 32px;
 .part3 {
     font-size: 0;
 }
+.zag3 {
+    padding-bottom: 43px;
+}
 .smile {
     display: inline-block;
     width: 50%;
@@ -393,8 +396,25 @@ padding: 0 32px;
     line-height: 125%;
     /* identical to box height, or 20px */
     color: #8E8E8E;
+    padding-left: 53px;
+    padding-bottom: 32px;
 }
-.scobkiText {
+.blockS {
+    display: inline-block;
+
+}
+.upS {
+    position: relative;
+    left: 46px;
+    bottom: 19px;
+
+}
+.downS {
+
+    padding-bottom: 50px;
+    padding-left: 16px;
+}
+.textS {
     font-family: 'Georgia';
     font-style: normal;
     font-weight: 400;
@@ -402,12 +422,17 @@ padding: 0 32px;
     line-height: 125%;
     /* or 30px */
     color: #8E8E8E;
+    padding-top: 14px;
+    padding-bottom: 56px;
+    padding-left: 94px;
 }
 .rowTeeth {
 
 }
 .imgTeeth {
     display: inline-block;
+    margin-left: 15px;
+
 }
 .section-two {
 
