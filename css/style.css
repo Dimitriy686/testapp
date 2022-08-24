@@ -174,36 +174,6 @@ h1 {
     padding-top: 24px;
     margin: 0;
 }
-.part33 {
-    font-size: 0;
-
-}
-.block2 {
-    width: 33.3%;
-    vertical-align: top;
-    padding: 42px 15px 15px 15px;
-    display: inline-block;
-
-}
-.img2 {
-    max-width: 100%;
-}
-
-
-.text2 {
-    font-family: 'Open Sans', serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    color: #FFFFFF;
-    background: #A18A6F;
-    width: 360px;
-    height: 108px;
-    padding-top: 24px;
-    padding-left: 32px;
-    margin: 0;
-
-}
 
 .part2 {
     font-size: 0;
@@ -296,7 +266,7 @@ padding: 0 32px;
     background: #A18A6F;
 }
 
-.section-one{
+.part3SectionAboutClinic{
     background: #F5F5F5;
     font-size: 0;
     padding-top: 60px;
@@ -374,7 +344,7 @@ padding: 0 32px;
     background: #D2C4B4;
 }
 
-.part3 {
+.part4 {
     font-size: 0;
 }
 .zag3 {
@@ -434,7 +404,7 @@ padding: 0 32px;
     margin-left: 15px;
 
 }
-.part44 {
+.part5 {
 font-size: 0;
 }
 .zag4 {
@@ -537,7 +507,7 @@ font-size: 0;
 .recSecond {
     margin-right: 195px;
 }
-.section-two {
+.part6SectionQuestion {
 
     margin: 100px 0;
 }
@@ -662,6 +632,37 @@ font-size: 0;
     border: none;
     margin-top: 12px;
 }
+.part7 {
+    font-size: 0;
+
+}
+.block2 {
+    width: 33.3%;
+    vertical-align: top;
+    padding: 42px 15px 15px 15px;
+    display: inline-block;
+
+}
+.img2 {
+    max-width: 100%;
+}
+
+
+.text2 {
+    font-family: 'Open Sans', serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #A18A6F;
+    width: 360px;
+    height: 108px;
+    padding-top: 24px;
+    padding-left: 32px;
+    margin: 0;
+
+}
+
 .footer {
     background: #F5F5F5;
     font-size: 0;
