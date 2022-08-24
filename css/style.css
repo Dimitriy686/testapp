@@ -434,6 +434,52 @@ padding: 0 32px;
     margin-left: 15px;
 
 }
+.part44 {
+
+}
+.zag4 {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 125%;
+    /* identical to box height, or 45px */
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 42px;
+}
+.blockO {
+    display: inline-block;
+    font-size: 0;
+    height: 218px;
+}
+.rating {
+    width: 270px;
+    background-color: #A18A6F;
+    margin-right: 25px;
+}
+.otzov {
+    width: 870px;
+    background-color: #F5F5F5;
+}
+.reklama {
+    align-content: center;
+    margin: 48 auto;
+    margin-top: 48px;
+
+}
+.rec {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.recFirst {
+    margin-right: 199px;
+    margin-left: 35px;
+}
+.recSecond {
+    margin-right: 195px;
+}
 .section-two {
 
     margin: 100px 0;
